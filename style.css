@@ -1,0 +1,35 @@
+body {background-color: #ffffff;
+        font-family: 'Source Sans Pro' , sans-serif;
+        padding-left: 30px;
+        padding-right: 30px;
+        }
+
+a:link {
+  color: #9b3453;
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #3c79c9;
+}
+
+h1 {
+  font-family: 'Droid Serif' , serif;
+  font-size: 40px;
+  color: black;
+  text-align: center;
+
+}
+
+h2 {
+  font-size: 20px;
+}
+img {
+  margin: 0 auto;
+  display: block;
+  padding-bottom: 20px;
+}
