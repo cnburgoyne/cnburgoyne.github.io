@@ -1,3 +1,5 @@
+@import url("reset.css");
+
 body {background-color: #ffffff;
         font-family: 'Source Sans Pro' , sans-serif;
         padding-left: 30px;
@@ -22,6 +24,7 @@ h1 {
   font-size: 40px;
   color: black;
   text-align: center;
+  padding: 25px 0px 25px 0px;
 
 }
 
@@ -31,5 +34,22 @@ h2 {
 img {
   margin: 0 auto;
   display: block;
-  padding-bottom: 20px;
+  padding-bottom: 25px;
+}
+
+.line1  {
+   display: inline-block;
+   text-align: center;
+   padding-bottom: 10px;
+   background-color: grey;
+   margin: 10px auto
+}
+
+.line2  {
+   display: inline-block;
+   text-align: center;
+   padding-bottom: 10px;
+   background-color: grey;
+   margin: 10px auto
+   clear:both;
 }
