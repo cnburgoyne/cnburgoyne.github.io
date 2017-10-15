@@ -5,6 +5,12 @@ body {background-color: #ffffff;
         padding-left: 30px;
         padding-right: 30px;
         }
+.how-to {
+  padding-left: 50px;
+}
+.watch-netflix {
+  padding: 0 10%;
+}
 
 a:link {
   color: #9b3453;
@@ -31,10 +37,32 @@ h1 {
 h2 {
   font-size: 20px;
 }
+.subheading {
+  text-align: center;
+}
+
 img {
   margin: 0 auto;
   display: block;
   padding-bottom: 25px;
+}
+#netflix-img{
+  padding: 25px 25px;
+}
+
+ol {
+list-style-type: decimal;
+}
+
+
+.how-to-list {
+padding-left: 50px;
+}
+.container1 {
+
+}
+.fa-info-circle{
+  color: red;
 }
 
 .line1  {
