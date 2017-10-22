@@ -36,7 +36,9 @@ h1 {
 
 h2 {
   font-size: 20px;
+  padding-bottom: 20px;
 }
+
 .subheading {
   text-align: center;
 }
@@ -80,4 +82,19 @@ padding-left: 50px;
    background-color: grey;
    margin: 10px auto
    clear:both;
+}
+
+.subscribe-form {
+
+  padding: 15px 25% 25px 25%;
+}
+
+@media all and (max-width: 750px) {
+
+  h1{
+    font-size: 30px;
+  }
+  body{
+    background-color: #b3eff9;
+  }
 }
